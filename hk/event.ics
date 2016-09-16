@@ -12,16 +12,16 @@ TZNAME:HKT
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20160528T171403Z
-UID:7a05b8f2-d0ce-4508-8c32-4271eb6c7d61
+DTSTAMP:20160916T173647Z
+UID:ace505ac-b49c-4d7d-89d5-3ebf1fb46b42
 DTSTART;TZID=Asia/Hong_Kong:20161002T140000
 DTEND;TZID=Asia/Hong_Kong:20161002T170000
 CLASS:PRIVATE
 DESCRIPTION:Please proceed to the Manhattan Suite on the 21st Floor.\nLight
-  refreshments will be provided after the ceremony.\n
+  refreshments will be provided after the party.\n
 GEO:22.3011;114.1833
 LOCATION:Harbour Plaza Metropolis\, Kowloon\, Hong Kong
-SUMMARY:Fish & Sheep Wedding Ceremony
+SUMMARY:Fish & Sheep Wedding Party
 URL:http://fish.liahsheep.com
 END:VEVENT
 END:VCALENDAR
